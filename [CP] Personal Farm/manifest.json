@@ -1,0 +1,16 @@
+{
+	"Name": "Farm Extended",
+	"Author": "Cailean Keefe",
+	"Version": "1.0.0",
+	"Description": "Currently just some personal farm modifications for my own liking.",
+	"UniqueID": "CaileanKeefe.FarmExtended",
+	"ContentPackFor": {
+		"UniqueID": "Pathoschild.ContentPatcher"
+	}
+	"Dependencies": [
+		{
+			"UniqueID": "Pathoschild.ContentPatcher"
+		}
+	],
+	"UpdateKeys": [ "GitHub:lynnkeefe/FarmExtended" ]
+}
